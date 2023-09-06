@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Spotify",
+            "description": "React, JSX, Tailwind",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Shoppe",
+            "description": "React, JSX",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Movie-Hub",
+            "description": "React, JSX, Material ui",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Chat app",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Weather app",
+            "description": "React",
+            "url": "http://google.com"
+        }
+    ]
+}
