@@ -40,7 +40,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="container home-page">
+      <div className=" home-page">
         <div className='text-zone'>
   
            <h1>

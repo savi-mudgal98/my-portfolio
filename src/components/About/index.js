@@ -48,9 +48,17 @@ const About = () => {
         </p>
         <p>
         I'm quiet confident, naturally curious, and perpetually working on
-          improving my chops one design problem at a time.
+          improving my chops one design problem at a time.<br/>
+          Download my resume below to look at my educational background and more.
         </p>
+
+        <button className='flat-button'>
+          <a href= "https://drive.google.com/file/d/1wPN-XF-ivNHQsrJ_RSruFAXvH42XiBsH/view?usp=drivesdk ">Download Resume</a>
+          </button>
+
+
       </div>
+     
 
       <div className="stage-cube-cont">
         <div className="cubespinner">
